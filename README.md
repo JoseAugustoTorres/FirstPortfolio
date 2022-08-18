@@ -1,2 +1,2 @@
 # FirstPortfolio
-Creation of my first portfolio, following the Angela's Web Development course
+Creation of my first portfolio, following Angela's Web Development course
